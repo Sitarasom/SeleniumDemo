@@ -1,0 +1,11 @@
+Class Sample
+{
+voidm1()
+{
+
+}
+void m2()
+{
+}
+}
+
